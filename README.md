@@ -1,4 +1,4 @@
-# Project module 8.6.
+# Project module 8.6 (conditional instructions)
 - Conditional statements "if"
 
 lerem ipsum
